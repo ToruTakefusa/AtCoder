@@ -33,3 +33,7 @@
 
 # Debug directory
 *Debug/
+
+# Qmake file
+*.pro
+*.pro.user
